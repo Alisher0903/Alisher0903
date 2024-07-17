@@ -1,4 +1,4 @@
-# Hi there, I'm Alisher Sodiqov 👋
+# Hi there, I'm <a>Alisher Sodiqov</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
 ## 👨‍💻 About Me:
 - 🎓 Education: <a href="https://tuitkf.uz/uz/" target="_blank">TUIT QF</a>  /  <a href="https://itcityacademy.uz/" target="_blank">IT City Academy</a>
