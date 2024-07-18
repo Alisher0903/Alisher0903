@@ -20,7 +20,7 @@
 ## 🧰 Frameworks & Libraries:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![Sass|Scss](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![Scss](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
