@@ -35,4 +35,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
 
-//react-animation animatsiya
