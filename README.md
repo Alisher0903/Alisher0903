@@ -2,7 +2,6 @@
 
 ## 👨‍💻 About Me:
 - 🎓 Education: <a href="https://tuitkf.uz/uz/" target="_blank">TUIT QF</a>  /  <a href="https://www.sferaacademy.uz/" target="_blank">Sfera Academy</a>
-//- 🌐 I’m <a href="https://alisher-sodiqov.netlify.app" target="_blank">web site</a>.
 - 💻 I’m currently working on some cool projects.
 
 ## 📫 How to contact me:
