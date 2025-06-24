@@ -1,7 +1,7 @@
 # Hi there, I'm <a href="https://alisherdev.uz">Alisher Sodiqov</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px" height="26px">
 
 ## 👨‍💻 About Me:
-- 🎓 Education: <a href="https://tuitkf.uz/uz/" target="_blank">TUIT QF</a>  /  <a href="https://www.sferaacademy.uz/" target="_blank">Sfera Academy</a>
+- 🎓 Education: <a href="https://kstu.uz" target="_blank">TUIT QF</a>  /  <a href="https://www.sferaacademy.uz" target="_blank">Sfera Academy</a>
 - 💻 I’m currently working on some cool projects.
 
 ## 📫 How to contact me:
